@@ -1,0 +1,109 @@
+,Centre A Features,,,Centre B Features,,,Consolidated Features,
+Rank,Score,Feature,,Score,Feature,,Score,Feature
+1,1,GLRLM - Gray-Level Non-Uniformity,,1,First-Order - Range,,0.919196958,GLSZM - Zone Entropy
+2,0.942610005,NGTDM - Contrast,,0.919196958,GLSZM - Zone Entropy,,0.763808631,GLCM - Inverse Difference Normalized
+3,0.925158971,GLSZM - Zone Entropy,,0.879824056,GLCM - Cluster Prominence,,0.702758067,Shape & Size - Surface Volume Ratio
+4,0.921418661,GLCM - Inverse Difference Normalized,,0.763808631,GLCM - Inverse Difference Normalized,,0.694475642,GLCM - Correlation
+5,0.914059459,GLCM - Inverse Variance,,0.750301981,NGTDM - Strength,,0.630344108,GLSZM - Size Zone Non-Uniformity
+6,0.87788936,GLSZM - Zone Percentage,,0.702758067,Shape & Size - Surface Volume Ratio,,0.629369995,NGTDM - Strength
+7,0.850569724,GLDM - Dependence Entropy,,0.694475642,GLCM - Correlation,,0.610564879,GLSZM - Gray-Level Non-Uniformity Normalized
+8,0.825998737,Shape & Size - Surface Volume Ratio,,0.675562822,GLSZM - Small Area High Gray-Level Emphasis,,0.606963987,GLCM - Cluster Prominence
+9,0.816335764,GLRLM - Gray-Level Non-Uniformity Normalized,,0.631816664,Shape & Size - Sphericity,,0.600364495,GLRLM - Run Entropy
+10,0.810355539,GLCM - Correlation,,0.630344108,GLSZM - Size Zone Non-Uniformity,,0.585989121,GLDM - Dependence Non-Uniformity Normalized
+11,0.808645411,First-Order - Kurtosis,,0.617722458,GLSZM - Large Area High Gray-Level Emphasis,,0.556938766,NGTDM - Contrast
+12,0.801680059,First-Order - 10th Percentile,,0.610564879,GLSZM - Gray-Level Non-Uniformity Normalized,,0.521368092,GLCM - Cluster Shade
+13,0.775676286,GLCM - Informational Measure of Correlation 2,,0.600364495,GLRLM - Run Entropy,,0.514910173,GLCM - Informational Measure of Correlation 2
+14,0.746377252,GLCM - Cluster Shade,,0.585989121,GLDM - Dependence Non-Uniformity Normalized,,0.497590991,GLCM - Inverse Variance
+15,0.721059622,NGTDM - Busyness,,0.576345778,GLCM - Difference Entropy,,0.495255752,Shape & Size - Sphericity
+16,0.716412969,GLSZM - Large Area Low Gray-Level Emphasis,,0.574462684,NGTDM - Complexity,,0.490978411,First-Order - Kurtosis
+17,0.700287453,Shape & Size - Flatness,,0.558804917,First-Order - Minimum,,0.486154817,GLDM - Large Dependence Low Gray-Level Emphasis
+18,0.677751334,GLCM - Informational Measure of Correlation 1,,0.556938766,NGTDM - Contrast,,0.475013546,GLRLM - Gray-Level Non-Uniformity Normalized
+19,0.660654159,GLCM - Contrast,,0.552492291,GLCM - Maximal Correlation Coefficient,,0.469539269,GLDM - Small Dependence Low Gray-Level Emphasis
+20,0.642532677,GLSZM - Size Zone Non-Uniformity,,0.521368092,GLCM - Cluster Shade,,0.459478688,First-Order - 10th Percentile
+21,0.642290229,GLSZM - Gray-Level Non-Uniformity Normalized,,0.514910173,GLCM - Informational Measure of Correlation 2,,0.454042833,GLCM - Informational Measure of Correlation 1
+22,0.629369995,NGTDM - Strength,,0.497590991,GLCM - Inverse Variance,,0.452130828,NGTDM - Busyness
+23,0.62733262,GLSZM - Size Zone Non-Uniformity Normalized,,0.490978411,First-Order - Kurtosis,,0.4348836,First-Order - Skewness
+24,0.621038091,GLDM - Dependence Non-Uniformity Normalized,,0.486154817,GLDM - Large Dependence Low Gray-Level Emphasis,,0.421787156,Shape & Size - Flatness
+25,0.610645992,GLRLM - Run Entropy,,0.475673725,First-Order - Energy,,0.420220422,GLDM - Large Dependence High Gray-Level Emphasis
+26,0.609954721,First-Order - 90th Percentile,,0.475013546,GLRLM - Gray-Level Non-Uniformity Normalized,,0.418111157,Shape & Size - Surface Area
+27,0.60995442,GLDM - Small Dependence Low Gray-Level Emphasis,,0.469539269,GLDM - Small Dependence Low Gray-Level Emphasis,,0.378421248,First-Order - Range
+28,0.606963987,GLCM - Cluster Prominence,,0.468797961,GLCM - Sum Entropy,,0.369892303,Shape & Size - Elongation
+29,0.589156802,GLSZM - Large Area Emphasis,,0.465377179,GLCM - Difference Variance,,0.366083782,GLSZM - Large Area Low Gray-Level Emphasis
+30,0.586228214,First-Order - Skewness,,0.459478688,First-Order - 10th Percentile,,0.365410966,GLSZM - Gray-Level Variance
+31,0.583976034,First-Order - Robust Mean Absolute Deviation,,0.454042833,GLCM - Informational Measure of Correlation 1,,0.337808687,GLSZM - Size Zone Non-Uniformity Normalized
+32,0.578326143,GLRLM - Run Length Non-Uniformity Normalized,,0.452130828,NGTDM - Busyness,,0.325499408,GLRLM - Gray-Level Non-Uniformity
+33,0.577614877,GLDM - Large Dependence Low Gray-Level Emphasis,,0.451097902,Shape & Size - Surface Area,,0.310012421,First-Order - Minimum
+34,0.56896189,GLSZM - Gray-Level Variance,,0.4348836,First-Order - Skewness,,0.283198554,GLCM - Sum Entropy
+35,0.54782594,NGTDM - Coarseness,,0.421787156,Shape & Size - Flatness,,0.276217091,GLRLM - Run Percentage
+36,0.520578798,GLCM - Difference Average,,0.421092018,GLSZM - Zone Variance,,0.274662238,First-Order - Mean Absolute Deviation
+37,0.499073991,Shape & Size - Maximum 2D Diameter Slice,,0.420220422,GLDM - Large Dependence High Gray-Level Emphasis,,0.261646885,GLSZM - Small Area Low Gray-Level Emphasis
+38,0.495255752,Shape & Size - Sphericity,,0.369892303,Shape & Size - Elongation,,0.260949838,First-Order - Median
+39,0.471422094,GLDM - Large Dependence High Gray-Level Emphasis,,0.366083782,GLSZM - Large Area Low Gray-Level Emphasis,,0.260177849,NGTDM - Complexity
+40,0.432244635,Shape & Size - Elongation,,0.365410966,GLSZM - Gray-Level Variance,,0.258741893,GLCM - Difference Variance
+41,0.420232668,GLRLM - Short Run Low Gray-Level Emphasis,,0.339053798,GLRLM - Gray-Level Variance,,0.253540508,GLSZM - Zone Percentage
+42,0.418111157,Shape & Size - Surface Area,,0.337808687,GLSZM - Size Zone Non-Uniformity Normalized,,0.244846113,GLDM - Dependence Variance
+43,0.403669612,GLRLM - Run Percentage,,0.329178924,GLSZM - Low Gray-Level Zone Emphasis,,0.230089099,First-Order - 90th Percentile
+44,0.401266873,GLDM - Small Dependence High Gray-Level Emphasis,,0.327914667,GLRLM - Run Variance,,0.199006401,GLRLM - Long Run High Gray-Level Emphasis
+45,0.378421248,First-Order - Range,,0.326331103,First-Order - Mean Absolute Deviation,,0.198932638,Shape & Size - Maximum 2D Diameter Slice
+46,0.356875276,GLSZM - Small Area Low Gray-Level Emphasis,,0.325499408,GLRLM - Gray-Level Non-Uniformity,,0.193669293,Shape & Size - Least Axis Length
+47,0.346613732,GLCM - Inverse Difference Moment Normalized,,0.31043708,GLRLM - Short Run Emphasis,,0.19171498,GLCM - Contrast
+48,0.310012421,First-Order - Minimum,,0.283791943,Shape & Size - Least Axis Length,,0.174299362,GLCM - Difference Entropy
+49,0.289084266,First-Order - Median,,0.276217091,GLRLM - Run Percentage,,0.174073935,GLSZM - High Gray-Level Zone Emphasis
+50,0.28680446,GLSZM - High Gray-Level Zone Emphasis,,0.261646885,GLSZM - Small Area Low Gray-Level Emphasis,,0.164476942,GLSZM - Small Area Emphasis
+51,0.284486394,GLDM - Dependence Variance,,0.260949838,First-Order - Median,,0.161811095,First-Order - Uniformity
+52,0.283198554,GLCM - Sum Entropy,,0.253540508,GLSZM - Zone Percentage,,0.160633504,GLCM - Joint Entropy
+53,0.274662238,First-Order - Mean Absolute Deviation,,0.251567408,GLDM - Small Dependence Emphasis,,0.151393425,GLRLM - Short Run Low Gray-Level Emphasis
+54,0.27123753,GLRLM - Long Run Low Gray-Level Emphasis,,0.244846113,GLDM - Dependence Variance,,0.148603952,GLDM - Gray-Level Non-Uniformity
+55,0.260177849,NGTDM - Complexity,,0.241089243,GLSZM - Small Area Emphasis,,0.148440049,GLCM - Maximal Correlation Coefficient
+56,0.258741893,GLCM - Difference Variance,,0.230089099,First-Order - 90th Percentile,,0.137759871,GLCM - Difference Average
+57,0.255634403,GLCM - Joint Entropy,,0.208471764,GLSZM - Gray-Level Non-Uniformity,,0.131309983,GLCM - Cluster Tendency
+58,0.239150528,GLRLM - Long Run High Gray-Level Emphasis,,0.199006401,GLRLM - Long Run High Gray-Level Emphasis,,0.126374096,First-Order - Entropy
+59,0.230561513,First-Order - Mean,,0.198932638,Shape & Size - Maximum 2D Diameter Slice,,0.120099144,GLSZM - Small Area High Gray-Level Emphasis
+60,0.222298117,First-Order - Uniformity,,0.191732866,GLDM - High Gray-Level Emphasis,,0.11440097,First-Order - Interquartile Range
+61,0.220206803,First-Order - Root Mean Squared,,0.19171498,GLCM - Contrast,,0.109390219,First-Order - Robust Mean Absolute Deviation
+62,0.203554978,GLCM - Autocorrelation,,0.174073935,GLSZM - High Gray-Level Zone Emphasis,,0.102787071,GLRLM - Run Variance
+63,0.202104946,GLCM - Joint Average,,0.172933916,First-Order - Interquartile Range,,0.101031963,GLRLM - Long Run Low Gray-Level Emphasis
+64,0.197650706,GLRLM - Long Run Emphasis,,0.165458427,GLDM - Large Dependence Emphasis,,0.100856385,GLDM - Small Dependence High Gray-Level Emphasis
+65,0.193669293,Shape & Size - Least Axis Length,,0.164783379,First-Order - Entropy,,0.095449312,GLDM - High Gray-Level Emphasis
+66,0.174918707,GLCM - Sum Average,,0.161811095,First-Order - Uniformity,,0.09484836,GLCM - Joint Energy
+67,0.174299362,GLCM - Difference Entropy,,0.160633504,GLCM - Joint Entropy,,0.084059519,GLSZM - Low Gray-Level Zone Emphasis
+68,0.169781052,GLDM - Gray-Level Non-Uniformity,,0.151393425,GLRLM - Short Run Low Gray-Level Emphasis,,0.081448061,GLCM - Inverse Difference Moment Normalized
+69,0.164476942,GLSZM - Small Area Emphasis,,0.148603952,GLDM - Gray-Level Non-Uniformity,,0.080316302,Shape & Size - Major Axis Length
+70,0.155848391,GLCM - Maximum Probability,,0.143938825,GLCM - Joint Energy,,0.078190211,NGTDM - Coarseness
+71,0.148440049,GLCM - Maximal Correlation Coefficient,,0.142548612,First-Order - Maximum,,0.069548435,GLRLM - Run Length Non-Uniformity Normalized
+72,0.138973426,GLRLM - High Gray-Level Run Emphasis,,0.137759871,GLCM - Difference Average,,0.069523854,First-Order - Root Mean Squared
+73,0.137295445,GLCM - Cluster Tendency,,0.131309983,GLCM - Cluster Tendency,,0.067285042,GLDM - Small Dependence Emphasis
+74,0.135293682,GLRLM - Run Length Non-Uniformity,,0.120854289,GLCM - Inverse Difference,,0.065501982,GLSZM - Gray-Level Non-Uniformity
+75,0.132285045,GLDM - Dependence Non-Uniformity,,0.109390219,First-Order - Robust Mean Absolute Deviation,,0.064050767,First-Order - Energy
+76,0.129539788,Shape & Size - Major Axis Length,,0.101031963,GLRLM - Long Run Low Gray-Level Emphasis,,0.054358991,GLRLM - Gray-Level Variance
+77,0.126374096,First-Order - Entropy,,0.100856385,GLDM - Small Dependence High Gray-Level Emphasis,,0.044127409,GLSZM - Large Area High Gray-Level Emphasis
+78,0.120099144,GLSZM - Small Area High Gray-Level Emphasis,,0.09247221,Shape & Size - Minor Axis Length,,0.043198706,GLCM - Joint Average
+79,0.11440097,First-Order - Interquartile Range,,0.081933977,GLRLM - Low Gray-Level Run Emphasis,,0.042585985,GLDM - Low Gray-Level Emphasis
+80,0.113000056,GLRLM - Short Run High Gray-Level Emphasis,,0.081448061,GLCM - Inverse Difference Moment Normalized,,0.040261154,GLRLM - Long Run Emphasis
+81,0.102787071,GLRLM - Run Variance,,0.080316302,Shape & Size - Major Axis Length,,0.0370205,GLDM - Dependence Non-Uniformity
+82,0.095449312,GLDM - High Gray-Level Emphasis,,0.078190211,NGTDM - Coarseness,,0.033476373,First-Order - Maximum
+83,0.09484836,GLCM - Joint Energy,,0.069548435,GLRLM - Run Length Non-Uniformity Normalized,,0.02924768,GLRLM - Run Length Non-Uniformity
+84,0.093518085,GLDM - Low Gray-Level Emphasis,,0.069523854,First-Order - Root Mean Squared,,0.027558871,GLDM - Dependence Entropy
+85,0.084059519,GLSZM - Low Gray-Level Zone Emphasis,,0.059975424,GLCM - Sum Squares,,0.027436264,Shape & Size - Minor Axis Length
+86,0.067528759,Shape & Size - Voxel Volume,,0.043506937,GLCM - Inverse Differencem,,0.025433575,First-Order - Mean
+87,0.067285042,GLDM - Small Dependence Emphasis,,0.043198706,GLCM - Joint Average,,0.022980782,GLCM - Maximum Probability
+88,0.065501982,GLSZM - Gray-Level Non-Uniformity,,0.042585985,GLDM - Low Gray-Level Emphasis,,0.0223152,GLRLM - Short Run Emphasis
+89,0.064050767,First-Order - Energy,,0.040261154,GLRLM - Long Run Emphasis,,0.021359497,GLCM - Sum Average
+90,0.054358991,GLRLM - Gray-Level Variance,,0.039122661,Shape & Size - Maximum 2D Diameter Column,,0.01568818,Shape & Size - Maximum 3D Diameter
+91,0.045826566,Shape & Size - Mesh Volume,,0.0370205,GLDM - Dependence Non-Uniformity,,0.013539724,GLRLM - Low Gray-Level Run Emphasis
+92,0.044127409,GLSZM - Large Area High Gray-Level Emphasis,,0.02924768,GLRLM - Run Length Non-Uniformity,,0.013477344,GLSZM - Large Area Emphasis
+93,0.043059616,First-Order - Variance,,0.027558871,GLDM - Dependence Entropy,,0.01256191,Shape & Size - Mesh Volume
+94,0.037793036,Shape & Size - Maximum 3D Diameter,,0.025433575,First-Order - Mean,,0.011417406,First-Order - Variance
+95,0.033476373,First-Order - Maximum,,0.022980782,GLCM - Maximum Probability,,0.01036853,GLRLM - High Gray-Level Run Emphasis
+96,0.027436264,Shape & Size - Minor Axis Length,,0.021359497,GLCM - Sum Average,,0.007001236,Shape & Size - Maximum 2D Diameter Row
+97,0.0223152,GLRLM - Short Run Emphasis,,0.01568818,Shape & Size - Maximum 3D Diameter,,0.006378528,GLCM - Inverse Difference
+98,0.013539724,GLRLM - Low Gray-Level Run Emphasis,,0.013477344,GLSZM - Large Area Emphasis,,0.005382358,GLDM - Large Dependence Emphasis
+99,0.011621368,GLDM - Gray-Level Variance,,0.01256191,Shape & Size - Mesh Volume,,0.004848288,Shape & Size - Voxel Volume
+100,0.007436964,Shape & Size - Maximum 2D Diameter Row,,0.011417406,First-Order - Variance,,0.004355864,GLRLM - Short Run High Gray-Level Emphasis
+101,0.006378528,GLCM - Inverse Difference,,0.01036853,GLRLM - High Gray-Level Run Emphasis,,0.002762685,Shape & Size - Maximum 2D Diameter Column
+102,0.005382358,GLDM - Large Dependence Emphasis,,0.007001236,Shape & Size - Maximum 2D Diameter Row,,0.002219603,GLDM - Gray-Level Variance
+103,0.002762685,Shape & Size - Maximum 2D Diameter Column,,0.004848288,Shape & Size - Voxel Volume,,0.002196579,GLCM - Inverse Differencem
+104,0.002196579,GLCM - Inverse Differencem,,0.004355864,GLRLM - Short Run High Gray-Level Emphasis,,0,GLCM - Autocorrelation
+105,0,First-Order - Total Energy,,0.002219603,GLDM - Gray-Level Variance,,0,First-Order - Total Energy
+106,0,GLCM - Sum Squares,,0,First-Order - Total Energy,,0,GLCM - Sum Squares
+107,0,GLSZM - Zone Variance,,0,GLCM - Autocorrelation,,0,GLSZM - Zone Variance
